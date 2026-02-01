@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+venv/
+env/
+*.zip
+*.mp4
+*.pdf
+*.exe
+*.csv
+*.ipynb
+.DS_Store
